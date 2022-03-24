@@ -1,3 +1,24 @@
+# Welcome to the Magic Anatomy Study Info Page
+
+## Hard facts:
+- 45min study duration
+- Prior anatomy knowledge beneficial, but not needed
+- 10€ "thanks" compensation
+- Augmented Reality (whoop)
+- 3G rules
+
+## Brief Study Outline
+
+- hand
+- glove
+- head
+- projects
+- fun
+- really cool
+- much wow
+- etc.
+
+<!--
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/magic-lens/study-03-2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +56,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
