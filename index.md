@@ -8,7 +8,7 @@
 
 ## Links
 
-- Block your appointment here: [https://calendly.com/magic-lens/magic-anatomy-study?month=2022-03](https://calendly.com/magic-lens/magic-anatomy-study?month=2022-03)
+- Block your appointment here (29./30./31. March): [https://calendly.com/magic-lens/magic-anatomy-study?month=2022-03](https://calendly.com/magic-lens/magic-anatomy-study?month=2022-03)
 - How to get there: Forschungscampus STIMULATE - [https://g.page/forschungscampus?share](https://g.page/forschungscampus?share)
 - Contact us at [magic.ovgu@gmail.com](mailto:magic.ovgu@gmail.com?subject=Magic%20Anatomy%20Question) for questions, etc.
 
