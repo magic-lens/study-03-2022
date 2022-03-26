@@ -1,22 +1,22 @@
 # Welcome to the Magic Anatomy Study Info Page
 
-## Hard facts:
-- 45min study duration
-- Prior anatomy knowledge beneficial, but not needed
-- 10€ "thanks" compensation
-- Augmented Reality (whoop)
-- 3G rules
+## What you need to know
+- 30min study duration
+- Hands on Augmented Reality experience
+- 10€ thanks compensation
+- 3G rules apply
 
-## Brief Study Outline
+## Links
 
-- hand
-- glove
-- head
-- projects
-- fun
-- really cool
-- much wow
-- etc.
+- Block your appointment here: https://calendly.com/magic-lens/magic-anatomy-study?month=2022-03
+- How to get there: Forschungscampus STIMULATE - https://g.page/forschungscampus?share
+- Contact us at [magic.ovgu@gmail.com](mailto:lmagic.ovgu@gmail.com?subject=Magic%20Anatomy%20Question) for questions, etc.
+
+## Study Outline
+
+- Put on AR gear: helmet, glove
+- Explore the human anatomy
+- Cruise your way through multiple levels to complete the tasks using our MAGIC LENS
 
 <!--
 ## Welcome to GitHub Pages
